@@ -1,5 +1,7 @@
 teammates:
   - name: Bob
     favoriteColor: red
+    title: specialist
   - name: Regina
     favoriteColor: green
+    title: expert
