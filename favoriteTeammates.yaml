@@ -1,9 +1,12 @@
 teammates:
   - name: Bob
     favoriteColor: red
+    title: specialist
   - name: Regina
     favoriteColor: green
+    title: expert
   - name: Hector
     favoriteColor: orange
+    title: architect
   - name: Luigi
-    favoriteColor: green
+    title: boss
